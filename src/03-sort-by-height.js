@@ -13,4 +13,3 @@ function sortByHeight(/* arr */) {
   throw new Error('Not implemented');
 }
 module.exports = sortByHeight;
-
