@@ -8,8 +8,8 @@
  * For aabbbc should return 2a3bc
  *
  */
-function encodeLine(/* str */) {
-  throw new Error('Not implemented');
+function encodeLine( /* str */ ) {
+    throw new Error('Not implemented');
 }
 
 module.exports = encodeLine;
